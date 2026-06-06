@@ -1,4 +1,4 @@
-# 🔬 Leukemia Mortality Prediction using Machine Learning
+# 🔬 Leucemia Mortality Prediction using Machine Learning
 
 ## 📌 Overview
 
